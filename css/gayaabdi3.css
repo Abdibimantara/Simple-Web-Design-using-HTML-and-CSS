@@ -1,0 +1,174 @@
+@font-face{
+    font-family:'bowling';
+    src:url('../cookies/data/pumpkin/White\ Bowling.ttf');
+}
+header{
+    background-color: #A8BACA;
+    height: 70px;
+    top: 0;
+    position: fixed;
+    width: 99%;
+}
+.container{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.header-logo{
+    float: left;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+li{
+    list-style: none;
+    float: left;
+    padding:10px 20px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+ul{
+    margin-left: 100px;
+}
+.header-list a{
+    text-decoration: none;
+    color: white;
+}
+.header-list li{
+    display: block;
+    transition: 0.5s;
+}
+.header-list a:hover{
+    background-color: #F5D1C9;
+}
+.header-logo img{
+    width: 70px;
+    height: 60px;
+    top: 0;
+    position: absolute;
+    padding-top: 5px;
+}
+.main_aboutus{
+    width: 100%;
+}
+.bagian1_aboutus{
+    background-color: #f5D1C9;
+    height: 718px;
+}
+.logo{
+    float: left;
+    width: 50%;
+    height: 700px;
+}
+.tulisan{
+    padding-top: 120px;
+    float: right;
+    width: 50%;
+    color: #16487f;;
+}
+.tulisan p{
+    width: 60%;
+    padding-left: 150px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.tulisan h1 {
+padding-left: 150px;
+font-family: cursive;
+font-weight: bold;
+font-size: 40px;
+}
+.footer2{
+    background-color: #A8BACA;
+    text-align: center;
+    height: 65px;
+    padding-top: 10px;
+    font-weight: bold;
+    color:#1c4383 ;
+    font-size: 20px;
+    font-family: 'fantasy';
+}
+.pesan{
+float: left;
+margin-right: 5px;
+width: 20%;
+margin: auto;
+padding-left: 60px;
+color: #1c4383;
+font-family: fantasy;
+font-weight: bold;
+}
+.bagian3_aboutus{
+    background-color: #fff8ee;
+    padding-top: 100px;
+    padding-bottom: 5px;
+    height: 300px;
+}
+.pesan input{
+    margin-top: 40px;
+    height: 30px;
+    width: 90%;
+    color: #1c4383;
+    border:solid 2px #1c4383;
+    padding-left: 20px;
+}
+
+.subs a{
+    background-color: #1c4383;
+    border-radius: 50px;
+    width: 50%;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 90px;
+    font-size: 14px;
+    margin-bottom: 50px;
+    text-decoration: none;
+    color: white;
+    display: block;
+    transition: 0.5s;
+    text-align: center;
+}
+.sosmed_pesan{
+    margin-top: 50px;
+}
+.bagian21{
+    float: left;
+    color:#1c4383;
+}
+.bagian21 h1{
+    margin-top:120px;
+    padding-left: 40px;
+    font-size: 50px;
+    letter-spacing: 5px;
+    
+}
+.bagian22{
+    float: right;
+    margin: auto;
+    margin-top: 120px;
+}
+.bagian2_aboutus{
+    background-image: url(../cookies/data/terakhir.png);
+    height: 700px;
+    
+}
+.main_tulisan{
+    float: right;
+    padding-top: 50px;
+    font-family: sans-serif;
+    text-align: left;
+    font-weight: bold;
+}
+.kontent_images{
+    float: left;
+    height: 50%;
+}
+.kontent_tulisan{
+    margin-bottom: 130px;
+
+ 
+}
+.kontent_tulisan p{
+}
